@@ -941,7 +941,7 @@
       "name": "Samosa",
       "price": 60,
       "category": "Breakfast",
-      "imageUrl": ""
+      "imageUrl": "https://ibb.co/hRYcD5VJ"
     },
     {
       "id": 131,
@@ -962,7 +962,7 @@
       "name": "Chapati",
       "price": 50,
       "category": "Breakfast",
-      "imageUrl": ""
+      "imageUrl": "https://ibb.co/QF3jQds3"
     },
     {
       "id": 134,
@@ -1004,7 +1004,7 @@
       "name": " White Coffee",
       "price": 200,
       "category": "Breakfast",
-      "imageUrl": ""
+      "imageUrl": "https://ibb.co/WWCQ4f9m"
     },
     {
       "id": 140,
@@ -1033,7 +1033,7 @@
       "id": 143,
       "name": "Beef Wet Fry",
       "price": 700,
-      "imageUrl": "",
+      "imageUrl": "https://ibb.co/QFrLv4Hs",
       "category": "Main Dishes"
     },
     {
@@ -1047,7 +1047,7 @@
       "id": 145,
       "name": "Anti Theft",
       "price": 700,
-      "imageUrl": "",
+      "imageUrl": "https://ibb.co/prn39gXP",
       "category": "Main Dishes"
     },
     {
@@ -1061,7 +1061,7 @@
       "id": 147,
       "name": "Pork 1/2 kg",
       "price": 850,
-      "imageUrl": "",
+      "imageUrl": "https://ibb.co/6c1P9s7C",
       "category": "Main Dishes"
     },
     {
@@ -1075,14 +1075,14 @@
       "id": 149,
       "name": "Matumbo Wet Fry",
       "price": 300,
-      "imageUrl": "",
+      "imageUrl": "https://ibb.co/Rkw8QKgB",
       "category": "Main Dishes"
     },
     {
       "id": 150,
       "name": "Chicken Stew (Kienyeji)",
       "price": 600,
-      "imageUrl": "",
+      "imageUrl": "https://ibb.co/pvLn2bky",
       "category": "Main Dishes"
     },
     {
@@ -1110,7 +1110,7 @@
       "id": 154,
       "name": "Fish Dry Fry (Tilapia)",
       "price": 800,
-      "imageUrl": "",
+      "imageUrl": "https://ibb.co/zWJP5kBK",
       "category": "Main Dishes"
     },
     {
@@ -1126,14 +1126,14 @@
       "id": 156,
       "name": "French Fries",
       "price": 200,
-      "imageUrl": "",
+      "imageUrl": "https://ibb.co/cnMt9N3",
       "category": "Sides"
     },
     {
       "id": 157,
       "name": "Saute Potatoes",
       "price": 250,
-      "imageUrl": "",
+      "imageUrl": "https://ibb.co/7tGHnBnL",
       "category": "Sides"
     },{
       "id": 158,
@@ -1145,13 +1145,13 @@
       "id": 159,
       "name": "Brown Ugali",
       "price": 150,
-      "imageUrl": "",
+      "imageUrl": "https://ibb.co/B5tvHwPz",
       "category": "Sides"
     },{
       "id": 160,
       "name": "White Ugali",
       "price": 100,
-      "imageUrl": "",
+      "imageUrl": "https://ibb.co/RkyNjqdf",
       "category": "Sides"
     },{
       "id": 161,
